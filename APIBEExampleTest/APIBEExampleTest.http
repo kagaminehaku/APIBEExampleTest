@@ -1,0 +1,6 @@
+@APIBEExampleTest_HostAddress = http://localhost:5199
+
+GET {{APIBEExampleTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
